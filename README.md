@@ -1,9 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-
 
 ### About Me  
 I am a passionate and keen full-stack web developer with a background in computer science. I have an endeavor in creating solid programs. The world is fast changing every day, becoming a digital world. We more often find ourselves automating business tasks.
